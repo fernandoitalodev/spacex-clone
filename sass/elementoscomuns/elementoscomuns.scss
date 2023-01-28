@@ -1,0 +1,62 @@
+.container00{
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+
+  .arrowdown{
+    width: 120px;
+    margin:auto;
+    
+  }
+  .header{
+    .img-header{
+      width: 200px;
+    }
+  }
+ 
+}
+
+.footer{
+  height: 15vh;
+
+  .textfooter {
+    padding:20px 0px 5px 0px;
+    text-align:center;
+    color:white;
+   
+  }
+  .linksfooter{
+    padding-top: 0px
+  }
+  .linksfooter  a{
+    padding: auto 1px;
+     color:white;
+    text-decoration: none;
+  }
+  .linkspacex{
+    text-decoration:none;
+    color:  #555252;
+    border-bottom: 1px solid transparent;
+    &:hover{
+      border-bottom: 1px solid #555252;
+    }
+  }
+.lg-linkedin:hover{
+    color: #0072b1;
+  }
+
+  .lg-insta:hover{
+    color: #E1306C;
+
+  }
+  .lg-github:hover{
+    color: #4078c0;
+
+  }
+  .lg-portfolio:hover{
+    color: rgb(245, 7, 7);
+
+  }
+}

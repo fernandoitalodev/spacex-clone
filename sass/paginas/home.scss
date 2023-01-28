@@ -1,0 +1,30 @@
+.container00{
+
+  .titulos{
+    padding-top: 200px;
+   
+    align-items: left;
+ 
+
+  .titulohome{
+    font-size: 25px;
+
+  }
+  .subtitulohome{
+    font-size:45px;
+
+  }
+}
+&.container01{
+  background-image: url(../../imagens/home/01.jpg);
+}
+&.container02{
+  background-image: url(../../imagens/home/03.jpg);
+}
+&.container03{
+  background-image: url(../../imagens/home/02.gif);
+}
+&.container04{
+  background-image: url(../../imagens/home/04.jpg);
+}
+}

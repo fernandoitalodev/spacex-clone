@@ -1,0 +1,1 @@
+Esse projeto foi feito no inicio dos meus estudos de programação e teve como objetivo aplicar meu conhecimento de bootstrap e sass.

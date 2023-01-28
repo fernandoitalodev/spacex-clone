@@ -1,0 +1,284 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+.container00 {
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+.container00 .arrowdown {
+  width: 120px;
+  margin: auto;
+}
+.container00 .header .img-header {
+  width: 200px;
+}
+
+.footer {
+  height: 15vh;
+}
+.footer .textfooter {
+  padding: 20px 0px 5px 0px;
+  text-align: center;
+  color: white;
+}
+.footer .linksfooter {
+  padding-top: 0px;
+}
+.footer .linksfooter a {
+  padding: auto 1px;
+  color: white;
+  text-decoration: none;
+}
+.footer .linkspacex {
+  text-decoration: none;
+  color: #555252;
+  border-bottom: 1px solid transparent;
+}
+.footer .linkspacex:hover {
+  border-bottom: 1px solid #555252;
+}
+.footer .lg-linkedin:hover {
+  color: #0072b1;
+}
+.footer .lg-insta:hover {
+  color: #E1306C;
+}
+.footer .lg-github:hover {
+  color: #4078c0;
+}
+.footer .lg-portfolio:hover {
+  color: rgb(245, 7, 7);
+}
+
+.container00 .titulos {
+  padding-top: 200px;
+  align-items: left;
+}
+.container00 .titulos .titulohome {
+  font-size: 25px;
+}
+.container00 .titulos .subtitulohome {
+  font-size: 45px;
+}
+.container00.container01 {
+  background-image: url(../../imagens/home/01.jpg);
+}
+.container00.container02 {
+  background-image: url(../../imagens/home/03.jpg);
+}
+.container00.container03 {
+  background-image: url(../../imagens/home/02.gif);
+}
+.container00.container04 {
+  background-image: url(../../imagens/home/04.jpg);
+}
+
+.container00.container05 {
+  background-image: url(../../imagens/falcon9/01.jpg);
+}
+.container00.container05 .titulofalcon9 {
+  background-color: rgba(0, 0, 0, 0.281);
+  text-align: center;
+  margin: auto;
+  margin-top: 120px;
+  width: 600px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+}
+.container00.container05 .titulofalcon9 .subtitulofalcon {
+  font-size: 20px;
+}
+.container00.container05 .titulofalcon9 .titulofalcon {
+  font-size: 100px;
+  font-weight: 500;
+}
+.container00.container06 {
+  background-image: url(../../imagens/falcon9/02.jpg);
+}
+.container00.container06 .texto-container06 {
+  padding-top: 150px;
+  font-size: 23px;
+}
+.container00.container06 .texto-container06 .p-container06 {
+  width: 650px;
+  line-height: 2em;
+}
+.container00 .texto-carrosel {
+  width: 600px;
+  align-items: left;
+  padding-top: 250px;
+  margin: auto;
+  margin-left: 130px;
+}
+.container00 .sublinhado {
+  border-bottom: 1px solid white;
+}
+.container00.container07 .texto-carrosel {
+  width: 600px;
+  align-items: left;
+  padding-top: 250px;
+  margin: auto;
+  margin-left: 130px;
+}
+.container00.container07 .carousel-item {
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container00.container07 .carousel-item .p1 {
+  font-size: 16px;
+  margin-bottom: 0px;
+  text-align: right;
+}
+.container00.container07 .carousel-item.f9-visao-geral {
+  background-image: url(../../imagens/falcon9/03.jpg);
+}
+.container00.container07 .carousel-item.f9-primeiro-estagio {
+  background-image: url(../../imagens/falcon9/04.jpg);
+}
+.container00.container07 .carousel-item.f9-segundo-estagio {
+  background-image: url(../../imagens/falcon9/05.jpg);
+}
+.container00.container07 .carousel-item.f9-interestadual {
+  background-image: url("../../imagens/falcon9/06.jpg");
+}
+.container00.container07 .carousel-item.f9-carga-util {
+  background-image: url(../../imagens/falcon9/07.jpg);
+}
+.container00.container08 {
+  background-image: url(../../imagens/falcon9/08.jpg);
+}
+.container00.container09 {
+  padding: 0px 0px;
+}
+.container00.container09 img {
+  height: 100vh;
+}
+.container00.container09 p {
+  background-color: rgba(0, 0, 0, 0.753);
+  border-radius: 10px;
+}
+
+.numeros {
+  height: 20%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.numeros .nmr-card {
+  font-size: 70px;
+}
+.numeros .text-card {
+  font-size: 20px;
+}
+
+.container00 .titlespace {
+  text-align: center;
+}
+.container00 .titlespace .titulospace {
+  font-size: 120px;
+  font-weight: 600;
+}
+.container00 .titlespace .subtitulospace {
+  font-size: 50px;
+}
+.container00.container10 {
+  background-image: url(../../imagens/humanFlight/01.jpg);
+}
+.container00.container10 nav {
+  color: black;
+}
+.container00.container11 {
+  background-image: url(../../imagens/humanFlight/02.jpg);
+}
+.container00.container12 {
+  background-image: url(../../imagens/humanFlight/03.jpg);
+}
+.container00.container13 {
+  background-image: url(../../imagens/humanFlight/04.jpg);
+}
+.container00.container14 {
+  background-image: url(../../imagens/humanFlight/05.jpg);
+}
+.container00 .conteudospace {
+  margin-left: 10px;
+}
+.container00 .conteudospace .item-conteudospace {
+  width: 650px;
+  margin-left: 50%;
+  padding-left: 20px;
+  margin-right: 0px;
+  padding-top: 15%;
+}
+.container00 .conteudospace .item-conteudospace-left {
+  margin-right: 50%;
+  width: 625px;
+  padding-top: 15%;
+}
+.container00 .conteudospace .titulo-conteudo-space {
+  font-size: 70px;
+  font-weight: 500;
+}
+.container00 .conteudospace .subtitulo-conteudo-space {
+  font-weight: 100;
+  font-size: 16px;
+}
+
+.texto-info {
+  height: 15vh;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+@media (max-width: 321px) {
+  .container00 .titlespace {
+    text-align: center;
+  }
+  .container00 .titlespace .titulospace {
+    font-size: 50px;
+    font-weight: 600;
+  }
+  .container00 .titlespace .subtitulospace {
+    font-size: 25px;
+  }
+  .container00 .conteudospace {
+    margin-left: 10px;
+  }
+  .container00 .conteudospace .item-conteudospace {
+    width: 650px;
+    margin-left: 50%;
+    padding-left: 20px;
+    margin-right: 0px;
+    padding-top: 15%;
+  }
+  .container00 .conteudospace .item-conteudospace-left {
+    margin-right: 50%;
+    width: 625px;
+    padding-top: 15%;
+  }
+  .container00 .conteudospace .titulo-conteudo-space {
+    font-size: 35px;
+    font-weight: 500;
+  }
+  .container00 .conteudospace .subtitulo-conteudo-space {
+    font-weight: 100;
+    font-size: 16px;
+  }
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
